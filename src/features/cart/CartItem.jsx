@@ -3,7 +3,7 @@ import { formatCurrency } from "../../utils/helpers";
 
 function CartItem({ item }) {
   const { pizzaId, name, quantity, totalPrice } = item;
-
+  console.log(pizzaId);
   return (
     <li className="py-3 sm:justify-between sm:flex sm:items-center">
       <p className="mb-1 sm:mb-0">
