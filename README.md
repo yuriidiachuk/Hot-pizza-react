@@ -1,4 +1,4 @@
-You can [see app](https://hot-pizza-yurii-diachuk.netlify.app/) 
+You can [See App](https://hot-pizza-yurii-diachuk.netlify.app/) 
 
 # React + Vite
 
